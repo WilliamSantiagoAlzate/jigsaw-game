@@ -1,9 +1,18 @@
+// Import libraries
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
+// Import components
+import { ViewJigsawList } from './views/Jigsaw/List/List';
+// Import style
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Jigsaw game</h1>
+      <BrowserRouter>
+        <Switch>
+          <Route exact path="/" component={ViewJigsawList} />
+        </Switch>
+      </BrowserRouter>
     </div>
   );
 }
