@@ -1,6 +1,31 @@
-# Getting Started with Create React App
+# Jigsaw Game
+
+This is a jigsaw game website for the fourth project of the mastery stage in Platzi Master, where you can upload a image and then solve the jigsaw generated.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Website design
+
+Layout contain:
+
+- Header
+- Game section
+- Footer
+
+Colors are:
+
+- ![#DE8971](https://via.placeholder.com/15/DE8971/000000?text=+) #DE8971
+- ![#7B6079](https://via.placeholder.com/15/7B6079/000000?text=+) #7B6079
+- ![#A7D0CD](https://via.placeholder.com/15/A7D0CD/000000?text=+) #A7D0CD
+- ![#FFE9D6](https://via.placeholder.com/15/FFE9D6/000000?text=+) #FFE9D6
+
+Font family are:
+
+- [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
+
+Mockup
+
+- [Figma mockup](https://www.figma.com/file/pmI85bNFomvlen2mnz3kq4/JigsawGame)
 
 ## Available Scripts
 

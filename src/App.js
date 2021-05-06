@@ -1,7 +1,7 @@
 // Import libraries
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 // Import components
-import { ViewJigsawList } from './views/Jigsaw/List/List';
+import { ViewJigsaw } from './views/Jigsaw/Jigsaw';
 // Import style
 import './App.css';
 
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={ViewJigsawList} />
+          <Route exact path="/" component={ViewJigsaw} />
         </Switch>
       </BrowserRouter>
     </div>
