@@ -1,0 +1,9 @@
+header {
+  background-color: var(--primary);
+  height: 50px;
+}
+
+header i {
+  font-size: var(--logo-text-size);
+  color: var(--background-color);
+}
