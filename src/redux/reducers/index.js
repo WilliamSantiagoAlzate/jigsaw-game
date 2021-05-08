@@ -9,7 +9,6 @@ import {
 const reducers = (state = initialState, action) => {
 	switch (action.type) {
 		case UPLOAD_IMAGE:
-			console.log(action.payload);
 			return {
 				...state,
 				image: action.payload

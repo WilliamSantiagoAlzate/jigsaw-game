@@ -1,0 +1,7 @@
+.jigsaw-image {
+  object-fit: cover;
+}
+
+.jigsaw-result-container {
+  border: 2px solid var(--secondary);
+}
