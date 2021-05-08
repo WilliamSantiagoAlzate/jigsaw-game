@@ -58,3 +58,14 @@ h5 {
   font-size: var(--button-text-size);
   color: var(--background-color);
 }
+
+.button:focus {
+  outline: none;
+}
+
+.button_upload {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}

@@ -1,0 +1,4 @@
+.alert {
+  background-color: var(--secondary);
+  width: fit-content;
+}
