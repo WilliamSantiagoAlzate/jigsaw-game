@@ -11,7 +11,7 @@ export const JigsawImage = () => {
   const imageRef = useRef();
   const dispatch = useDispatch();
   const image = useSelector(state => state.image);
-  const [showImage, setShowImage] = useState(true);
+  const [showImage, setShowImage] = useState(false);
   const [width] = useWindowResize(dispatch, ref);
 
   return (
