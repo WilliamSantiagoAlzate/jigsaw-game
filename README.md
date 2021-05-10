@@ -4,7 +4,7 @@ This is a jigsaw game website for the fourth project of the mastery stage in Pla
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Live website](https://jigsaw-game.herokuapp.com/)
+[Live website](https://jigsaw-game-platzi-master.web.app)
 
 ## Website design
 
