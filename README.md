@@ -99,6 +99,10 @@ The core of each component is your state, which has your own handle, for this re
 
 To render multiple elements in our view, we have our components, which we can iterate each one and set custom props, for this reason, this project was build with [Iterator Design Pattern](https://www.dofactory.com/javascript/design-patterns/iterator)
 
+## Project requirements
+
+[React_Project_Game_Jigsaw.pdf](https://drive.google.com/file/d/1sJEpcOkzoOgS_ZXv41qejzveUS4orFdK/view?usp=sharing)
+
 ## Academic coach
 
 Joshua Pedraza
