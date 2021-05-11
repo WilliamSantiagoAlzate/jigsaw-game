@@ -1,10 +1,64 @@
 # Jigsaw Game
 
-This is a jigsaw game website for the fourth project of the mastery stage in Platzi Master, where you can upload a image and then solve the jigsaw generated.
+This is a jigsaw game website for the fourth project of the mastery stage in Platzi Master, where you can upload a image and then solve the jigsaw generated moving the pieces.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Live website](https://jigsaw-game-platzi-master.web.app)
+## Live demo
+
+[Jigsaw Game](https://jigsaw-game-platzi-master.web.app)
+
+## Preview Image
+
+## Libraries used
+
+### React
+
+[v17.0.2](https://reactjs.org/)
+
+React was used to add individual components.
+
+### Tailwindcss
+
+[v2.0.0](https://tailwindcss.com/)
+
+Bootstrap was used to add styles to the project.
+
+### React router dom
+
+[v5.2.0](https://reacttraining.com/react-router/)
+
+React router dom was added to create a single page application.
+
+### Redux
+
+[v4.0.5](https://redux.js.org/)
+
+Redux was added to create a global state.
+
+### React redux
+
+[v7.2.3](https://react-redux.js.org/)
+
+React redux was added to connect the react app with redux store.
+
+### Jest
+
+[v26.6](https://jestjs.io/)
+
+Jest was added to do unit testing.
+
+### Enzyme
+
+[v3.11.0](https://enzymejs.github.io/enzyme/)
+
+Enzyme was added to do unit testing for react components.
+
+### @testing-library/react-hooks
+
+[v5.1.2](https://react-hooks-testing-library.com/)
+
+React hooks testing library was added to do unit testing for custom react hooks.
 
 ## Website design
 
@@ -43,6 +97,14 @@ The core of each component is your state, which has your own handle, for this re
 
 To render multiple elements in our view, we have our components, which we can iterate each one and set custom props, for this reason, this project was build with [Iterator Design Pattern](https://www.dofactory.com/javascript/design-patterns/iterator)
 
+## Academic coach
+
+Joshua Pedraza
+
+## Author
+
+William Santiago Alzate Barriga - William Santiago Alzate [C7] - Frontend
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -73,9 +135,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
