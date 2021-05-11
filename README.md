@@ -10,6 +10,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Preview Image
 
+![image](https://user-images.githubusercontent.com/55466321/117752193-fae1fa80-b1db-11eb-9c24-4d8363daf62e.png)
+
 ## Libraries used
 
 ### React
