@@ -24,7 +24,7 @@ React was used to add individual components.
 
 [v2.0.0](https://tailwindcss.com/)
 
-Bootstrap was used to add styles to the project.
+Tailwindcss was used to add styles to the project.
 
 ### React router dom
 
